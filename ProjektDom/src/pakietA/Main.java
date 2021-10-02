@@ -16,6 +16,7 @@ public class Main {
         //Dodaje ten komentarz w REMOTE w gałęzi main i będę chciał w lokalnym repo zrobic pulla na branchu: galazTest - 
         //NA INNYCH BRANCHACH NIE POWINNO BYĆ TEGO KOMENTARZA.
         //DODAJĘ TEN TEKST W ZDALNYM REPO 19:54
+        // Dodaję ten tekst w zdalnym repo 20:38
         
         
     }
