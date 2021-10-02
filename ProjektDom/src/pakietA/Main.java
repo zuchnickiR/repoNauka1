@@ -7,5 +7,7 @@ public class Main {
           System.out.println("Witaj Świecie");
          System.out.println("Witaj Polsko!");
         //dodaje ten komentarz w zdalnym repo!
+
+        //Ej, dodaje ten komentarz w IntellIJ na PC
     }
 }
