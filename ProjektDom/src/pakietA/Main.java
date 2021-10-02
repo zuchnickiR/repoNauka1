@@ -12,5 +12,8 @@ public class Main {
         
         //Dodaje koleny komentarz na zdalnym repo i będą chciał zrobic commita tylko na galaz2
         //komentarz w REMOTE
+        
+        //Dodaje ten komentarz w REMOTE w gałęzi main i będę chciał w lokalnym repo zrobic pulla na branchu: galazTest - 
+        //NA INNYCH BRANCHACH NIE POWINNO BYĆ TEGO KOMENTARZA.
     }
 }
