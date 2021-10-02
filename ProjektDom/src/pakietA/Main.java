@@ -9,5 +9,7 @@ public class Main {
         //dodaje ten komentarz w zdalnym repo!
 
         //Ej, dodaje ten komentarz w IntellIJ na PC
+        //Dodaję z repo na galaz1 ten tekst
+        
     }
 }
